@@ -2,12 +2,12 @@
 Menu slide writed with javascript
 this script DO NOT require jQuery
 
-INCLUDING:
+including:
 <!DOCTYPE HTML>
 <html>
-  <head>YOUR STUFF</head>
+  <head>your stuff</head>
   <body>
   
-  <script src="PATH TO "></script>
+  <script src="path to  "></script>
   </body>
 </html>
